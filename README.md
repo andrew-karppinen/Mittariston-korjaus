@@ -51,9 +51,9 @@ Kosketushäiriön aiheuttaja löytyi merkitystä kohdasta, ja korjattiin se uude
 
 ---
 
-## Uusi ongelma – kiteen rikkoutuminen
+## kiteen rikkoutuminen
 
-Valitettavasti korjaustyön yhteydessä yhden mikrokontrollerin käyttämä siru rikkoutui kuumuudesta.
+Korjaustyön yhteydessä yhden mikrokontrollerin käyttämä siru rikkoutui kuumuudesta.
 ![0H0A5566](https://github.com/user-attachments/assets/1c13d2ce-0ae1-41cc-8d19-9caf1e4867a6)
 
 
