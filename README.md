@@ -20,6 +20,7 @@ Jos mittaristo vaihdetaan toiseen autoon, se jatkaa edellisen auton kilometriluk
 
 Todellinen kilometrilukema voidaan lukea ECU:lta OBD-portin kautta,
 tämä ei kuitenkaan ole ihan niin helppo juttu kun sen toivoisi olevan, kilometrilukemaa ei saa ulos tietyllä PID koodilla vaan sen hakemiseen tarvitaan joitain volvon omia protokollia joita ei ole erityisen avoimesti dokumentoitu.
+Käytännössä tuon kilometrilukeman saa helpoten vidalla.
 
 ---
 
