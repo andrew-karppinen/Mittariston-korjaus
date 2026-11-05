@@ -14,13 +14,9 @@ Toimivuuden kannalta mittariston on oltava samaa tai lähes samaa mallia.
 
 Mittaristo ei myöskään toimi pelkkänä näyttölaitteena:  
 se tallentaa omaan muistiinsa kilometrilukeman, jota se kasvattaa aina, kun ECU ilmoittaa auton liikkuneen tietyn matkan.  
-Lisäksi mittaristolla on ilmeisesti jonkinlainen oma erillinen vikamuistinsa.
-
 Jos mittaristo vaihdetaan toiseen autoon, se jatkaa edellisen auton kilometrilukemasta, eikä lukema synkronoidu auton ECU:n tietoihin.  
 
-Todellinen kilometrilukema voidaan lukea ECU:lta OBD-portin kautta,
-tämä ei kuitenkaan ole ihan niin helppo juttu kun sen toivoisi olevan, kilometrilukemaa ei saa ulos tietyllä PID koodilla vaan sen hakemiseen tarvitaan joitain volvon omia protokollia joita ei ole erityisen avoimesti dokumentoitu.
-Käytännössä tuon kilometrilukeman saa helpoten vidalla.
+Todellinen kilometrilukema voidaan lukea ECU:lta OBD-portin kautta, mutta tähän tarvitaan volvon VIDA.
 
 ---
 
